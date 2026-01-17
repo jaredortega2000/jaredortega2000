@@ -7,22 +7,22 @@ Hola 👋, soy Jared Ortega
 </h1>
 
 <h3 align="center">
-Diseñador Web & Frontend Developer 💻🎨
+Ingeniero en Sistemas Computacionales · Diseñador Web 💻🎨
 </h3>
 
 ---
 
-## ✨ Sobre mí
+## 👨‍💻 Sobre mí
 
-- 🎨 Diseñador web enfocado en interfaces limpias y modernas  
-- 💻 Desarrollo sitios web con buenas prácticas  
-- 📱 Diseño responsive (mobile first)  
-- 🌎 Portafolio enfocado en sitios informativos y landing pages  
-- ⚡ Fun facts: 🏀 🎶 🎤 💻
+- 🎓 Ingeniero en Sistemas Computacionales  
+- 🎨 Diseñador web enfocado en interfaces modernas y funcionales  
+- 💻 Desarrollo sitios web responsivos y optimizados  
+- 🌐 Experiencia en sitios informativos, landing pages y portafolios  
+- ⚡ Fun facts: 🏀 🎤 🎶 💻
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -32,18 +32,18 @@ Diseñador Web & Frontend Developer 💻🎨
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
 ---
 
-## 📌 Mis proyectos
+## 📌 Enfoque de proyectos
 
-- 🌐 Landing pages
-- 🧢 Sitios informativos para negocios
-- 📄 Portafolios web
-- 🎯 Proyectos frontend
+- 🌐 Sitios web informativos  
+- 🎯 Landing pages  
+- 🧢 Páginas para negocios y marcas  
+- 📄 Portafolios web  
+- 📱 Diseño responsive (mobile first)
 
-📬 **Contacto:**  
-📧 Email: tucorreo@email.com  
-📸 Instagram: @tuusuario  
-
+---
